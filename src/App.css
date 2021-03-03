@@ -1,0 +1,40 @@
+body {
+  margin-top: 3rem;
+  background-color: #252525;
+  color: #64dfdf;
+}
+.card {
+  margin: 1.5rem 1rem;
+  border: 1px solid #64dfdf;
+}
+.card-img-overlay:hover {
+  border: 2px solid #64dfdf;
+  transition: 0.1s;
+}
+.card-text {
+  background-color: #25252580;
+  padding: 0rem 1rem;
+}
+.c-btn {
+  background-color: #64dfdf;
+  color: #252525;
+}
+.c-btn:hover {
+  transform: scale(1.1, 1.1);
+  transition: 0.3s;
+}
+.modal-content {
+  background-color: #252525;
+  color: #6930c3;
+}
+.btn-close {
+  background-color: #6930c3;
+}
+.c-link {
+  color: #6930c3;
+  text-decoration: underline;
+}
+.c-link:hover {
+  color: #64dfdf;
+  transition: 0.3s;
+}
